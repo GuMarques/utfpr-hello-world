@@ -3,9 +3,9 @@
 
 Vou mostrar um código que criei hoje na aula de Algoritmos 2:
 
-'''c
-    \#include <stdio.h>
-    \#include <stdlib.h>
+```c
+    #include <stdio.h>
+    #include <stdlib.h>
 
     typedef struct {
         int codigo_cliente;
@@ -83,7 +83,7 @@ Vou mostrar um código que criei hoje na aula de Algoritmos 2:
 
         return 0;
     }
-'''
+```
 
 Esse código gera um **menu** rudimental que tem **duas** restrições:
 
