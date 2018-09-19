@@ -4,8 +4,8 @@
 Vou mostrar um código que criei hoje na aula de Algoritmos 2:
 
 '''
-    #include <stdio.h>
-    #include <stdlib.h>
+    \#include <stdio.h>
+    \#include <stdlib.h>
 
     typedef struct {
         int codigo_cliente;
