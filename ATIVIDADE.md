@@ -3,7 +3,7 @@
 
 Vou mostrar um código que criei hoje na aula de Algoritmos 2:
 
-'''
+'''c
     \#include <stdio.h>
     \#include <stdlib.h>
 
